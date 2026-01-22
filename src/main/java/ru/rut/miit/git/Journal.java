@@ -70,7 +70,7 @@ public class Journal {
                 System.out.println(line);
             }
         }
-        System.out.println("-------------------------");
+        System.out.println("---------------------------");
         return lines;
     }
 
